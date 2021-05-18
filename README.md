@@ -1,6 +1,6 @@
 # Johni Douglas Marangon
 
-I'm a thirth two year old, software engineer, technology enthusiastc, and open source collaborator, I enjoy sports in general, hangout and personal enhancement meetups.
+I'm Johni, software engineer, technology enthusiastc, and open source collaborator, I enjoy sports in general, hangout and personal enhancement meetups.
 
 ## Contact Information
 
