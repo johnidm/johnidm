@@ -10,7 +10,7 @@ I'm Johni, software engineer, technology enthusiastc, and open source collaborat
 
 ## About me
 
-I have more than 10 years experience in software development, I took part in lots of successful projects using web, mobile and desktop technologies.
+I have more than 15+ years experience in software development, I took part in lots of successful projects using artificial intelligence, web, mobile and desktop technologies.
 
 Besides the coding focus, I’m a big fan of architecture talks, design patterns, best practices and subjects like Agile, TDD, cloud computing and user expierience. Searching for opportunities to join an engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion with great product vision.
 
