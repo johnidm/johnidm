@@ -1,6 +1,6 @@
 # Johni Douglas Marangon
 
-I'm Johni, software engineer, technology enthusiastc, and open source collaborator, I enjoy sports in general, hangout and personal enhancement meetups.
+I'm Johni, software engineer, technology enthusiastc, and open source collaborator, I enjoy hobbies in general, hangout and personal enhancement meetups.
 
 ## Contact Information
 
@@ -12,38 +12,29 @@ I'm Johni, software engineer, technology enthusiastc, and open source collaborat
 
 I have more than 15+ years experience in software development, I took part in lots of successful projects using artificial intelligence, web, mobile and desktop technologies.
 
-Besides the coding focus, I’m a big fan of architecture talks, design patterns, best practices and subjects like Agile, TDD, cloud computing and user expierience. Searching for opportunities to join an engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion with great product vision.
+Besides the coding focus, I’m a big fan of architecture talks, design patterns, pragmatic programming, and subjects like soft skills, leadership, agile, IA, automation tasks, clean code, cloud computing and user expierience. Searching for opportunities to join an engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion with great product vision.
 
-I share some knowledge on my personal blog, https://johnidm.github.io/, when I'm not working. I believe open source initiative and I share most of my work that has no impact on business secrets. You can find my collaborations on my GitHub account https://github.com/johnidm/.
+I share some knowledge on my personal blog, https://medium.com/@johnidouglasmarangon/, when I'm not working. I believe open source initiative and I share most of my work that has no impact on business secrets. You can find my collaborations on my GitHub account https://github.com/johnidm/.
 
-I help to organize some local meetups and talks about technology. Check it out on my speacker, http://slides.com/johnidouglasmarangon
-
-Tecnical Skills
-
-I'm proficient in Python (3+ years), Django (2+ years), Javascript (3+ years), React Native (3+ years), AngularJS (2+ years), PostgreSQL (8+ years), MySQL (5+ years) and Delphi 6, XE, XE2 (8+ years), Firebird (5+ years), PHP (1+ years), Zend Framework (1+ year), CSS/HTML (3+ years), Java (1+ years), Angular 2+ (1+ year), Typescript (1+ year), Ionic (1+ years).
-
-I'm experienced in Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagrant, Java Card, Fabric and Shellscript.
+I help to organize some local meetups and talks about technology. Check it out on my speacker, http://slides.com/johnidouglasmarangon.
 
 ### Tecnical Skills
 
-Proficient with Python (3+ years), Django (2+ years), Javascript (3+ years), AngularJS (2+ years), PostgreSQL (8+ years), MySQL (5+ years) and Delphi 6, XE, XE2 (8+ years), Firebird (5+ years), PHP (1+ years), Zend Framework (1+ years), CSS/HTML (3+ years), Java (1+ years), TypeScript (1+ year), Angular 2+ (1+ year), React Native (1+ year), Docker (1+ year).
+I'm proficient in Python (5+ years), Django (2+ years), Javascript (3+ years), React Native (3+ years), AngularJS (2+ years), PostgreSQL (10+ years), MySQL (5+ years) and Delphi 6, XE, XE2 (8+ years), Firebird (8+ years), PHP (1+ years), Zend Framework (1+ year), CSS/HTML (3+ years), Java (1+ years), Angular 2+ (1+ year), Typescript (1+ year), Ionic (1+ years), React JS (1+ years), C# (1+ years), Electron (1+ years), Node JS(1+ years).
 
-Experienced with Go, C++, Ruby, Ionic, Pascal, NodeJS, Lua, Rails, Docker, Vagrant, Java Card, Fabric and Shellscript.
-
-## Education
-
-**Federal University of Santa Catarina**, Florianópolis, Brazil - Information Computer Science Master Program, (2017 to present).
-
-> I am doing research about: Deep Learning, Data Mining, Machine Learning, Natural Processing Language and Intelligent Information Retrieval.
-
-**Universidade Paranaense**, Francisco Beltrão, Brazil - Graduated in Software Engineering, (2012 -2014).
-
-**Universidade do Oeste de Santa Catarina**, São Miguel do Oeste, Brazil - Bachelor's of Science in Information Systems, (2004-2010).
+I experienced in my studies: Go, C++, Ruby, Ionic, Pascal, Lua, Rails, Docker, Vagrant, Java Card, Tensor Flow.
 
 ## Experience
 
+**Softplan** (Brazil) - Tech Lead/Senior Software Enginnier - (Set 2018 to present)
 
-**Agriness** (Brazil) - Tech Lead - (Fev 2018 to present)
+Softplan / Poligraph is one of the largest software companies in Santa Catarina, with more than 1000 employees. It has been working for two decades in the development of management software in the public and private areas. 
+
+Working as tech lead an awesome and programatic team that development solution end-to-end with artificial intelligence, mainly focused on development speed and quality with end-user interaction.
+
+Key technologies: Python, Docker, GitLab, RabbitMQ, Kaldi, Vosk, sklearm, C#, React JS, Electron.
+
+**Agriness** (Brazil) - Tech Lead - (Fev 2018 to Set 2018)
 
 Agriness is a company to create solutions to aid farmers to manage their activities in a more organized and reliable way. 
 
@@ -116,6 +107,16 @@ Participated in the comunication module used to connect the point of sale applic
 
 Key technologies: Delphi, Firebird, PostgreSQL, Scrum.
 
+
+## Education
+
+**Federal University of Santa Catarina**, Florianópolis, Brazil - Information Computer Science Master Program, (2017 to present).
+
+> I am doing research about: Deep Learning, Data Mining, Machine Learning, Natural Processing Language and Intelligent Information Retrieval.
+
+**Universidade Paranaense**, Francisco Beltrão, Brazil - Graduated in Software Engineering, (2012 -2014).
+
+**Universidade do Oeste de Santa Catarina**, São Miguel do Oeste, Brazil - Bachelor's of Science in Information Systems, (2004-2010).
 
 <!--
 **johnidm/johnidm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
