@@ -32,7 +32,7 @@ Softplan / Poligraph is one of the largest software companies in Santa Catarina,
 
 Working as tech lead an awesome and programatic team that development solution end-to-end with artificial intelligence, mainly focused on development speed and quality with end-user interaction.
 
-Key technologies: Python, Docker, GitLab, RabbitMQ, Kaldi, Vosk, sklearm, C#, React JS, Electron.
+Key technologies: Python, Flask, Celery, FastAPI, Docker, GitLab, RabbitMQ, Kaldi, Vosk, sklearm, C#, React JS, Electron.
 
 #### Agriness (Brazil) - Tech Lead - (Fev 2018 to Set 2018)
 
