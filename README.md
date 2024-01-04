@@ -18,8 +18,8 @@ I have been working with software development since 2008, I took part in lots of
 
 Besides the coding focus, I’m a big fan of architecture talks, design patterns, pragmatic programming, and subjects like soft skills, leadership, agile methodologies, IA, cloud computing and user experiences. Searching for opportunities to join an engaged and committed team, passionate for its own product, creating life-changing experiences.
 
-I believe in open source initiative and I share most of my work that has no impact on business secrets. You can find my collaborations on my GitHub account https://github.com/johnidm/. Also,  I like to write about my knowledge and job challenges on my personal blog https://medium.com/@johnidouglasmarangon/.
-Sometimes, I like to join meetups and talk about technology. Check it out on my presentations http://slides.com/johnidouglasmarangon and videos about technology on my YouTube channel https://www.youtube.com/@johnidouglasmarangon/videos.
+I believe in open source initiative and I share most of my work that has no impact on business secrets. You can find my collaborations on my [GitHub account](https://github.com/johnidm/). Also, I like to write about my knowledge and job challenges on [my personal blog](https://medium.com/@johnidouglasmarangon/).
+Sometimes, I like to join meetups and talk about technology. Check it out on [my presentations](http://slides.com/johnidouglasmarangon) and videos about technology on [my YouTube channel](https://www.youtube.com/@johnidouglasmarangon/videos).
 
 
 ## Tecnical Skills
