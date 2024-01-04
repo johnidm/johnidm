@@ -18,15 +18,16 @@ I have been working with software development since 2008, I took part in lots of
 
 Besides the coding focus, I’m a big fan of architecture talks, design patterns, pragmatic programming, and subjects like soft skills, leadership, agile methodologies, IA, cloud computing and user experiences. Searching for opportunities to join an engaged and committed team, passionate for its own product, creating life-changing experiences.
 
-I believe in open source initiative and I share most of my work that has no impact on business secrets. You can find my collaborations on my [GitHub account](https://github.com/johnidm/). Also, I like to write about my knowledge and job challenges on [my personal blog](https://medium.com/@johnidouglasmarangon/).
+I believe in open source initiative and I share most of my work that has no impact on business secrets. You can find my collaborations on [my GitHub account](https://github.com/johnidm/). Also, I like to write about my knowledge and job challenges on [my personal blog](https://medium.com/@johnidouglasmarangon/).
 Sometimes, I like to join meetups and talk about technology. Check it out on [my presentations](http://slides.com/johnidouglasmarangon) and videos about technology on [my YouTube channel](https://www.youtube.com/@johnidouglasmarangon/videos).
-
 
 ## Tecnical Skills
 
-I'm proficient in Python (5+ years), Django (2+ years), Javascript (3+ years), React Native (3+ years), AngularJS (2+ years), PostgreSQL (10+ years), MySQL (5+ years) and Delphi 6, XE, XE2 (8+ years), Firebird (8+ years), PHP (1+ years), Zend Framework (1+ year), CSS/HTML (3+ years), Java (1+ years), Angular 2+ (1+ year), Typescript (1+ year), Ionic (1+ years), React JS (1+ years), C# (1+ years), Electron (1+ years), Node JS(1+ years).
+I have an intrinsic passion for exploring and mastering new programming languages, frameworks and libraries and for expanding my technical knowledge in what I have already mastered.
 
-I experienced in my studies: Go, C++, Ruby, Ionic, Pascal, Lua, Rails, Docker, Vagrant, Java Card, Tensor Flow.
+Throughout my professional journey I have dedicated many moments to continuing my life long learning. I immersed myself in a wide range of technical material from different sources. This exposure gave me a comprehensive and solid understanding of best practices and trends in the field of software engineering.
+
+Currently, I feel comfortable working with any technology, regardless of my previous familiarity.
 
 ## Experience
 
