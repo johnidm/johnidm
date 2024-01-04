@@ -1,6 +1,6 @@
 # Johni Douglas Marangon
 
-I'm Johni, software engineer, technology enthusiastc, and open source collaborator, I enjoy hobbies in general, hangout and personal enhancement meetups.
+Hi, I'm Johni, I have a passion for computer science and technology. My purpose for working as a software engineer is to make the world better by helping companies to solve real-life problems. I enjoy exploring various hobbies, travel, and self-development topics.
 
 ## You can find me on
 
@@ -14,13 +14,13 @@ I'm Johni, software engineer, technology enthusiastc, and open source collaborat
 
 ## About me
 
-I have more than 15+ years experience in software development, I took part in lots of successful projects using artificial intelligence, web, mobile and desktop technologies.
+I have been working with software development since 2008, I took part in lots of successful projects using AI, web, mobile and desktop technologies.
 
-Besides the coding focus, I’m a big fan of architecture talks, design patterns, pragmatic programming, and subjects like soft skills, leadership, agile, IA, automation tasks, clean code, cloud computing and user expierience. Searching for opportunities to join an engaged and commited team, passionate for its own product, creating life-changing experiences. A group that shares the same passion with great product vision.
+Besides the coding focus, I’m a big fan of architecture talks, design patterns, pragmatic programming, and subjects like soft skills, leadership, agile methodologies, IA, cloud computing and user experiences. Searching for opportunities to join an engaged and committed team, passionate for its own product, creating life-changing experiences.
 
-I share some knowledge on my personal blog, https://medium.com/@johnidouglasmarangon/, when I'm not working. I believe open source initiative and I share most of my work that has no impact on business secrets. You can find my collaborations on my GitHub account https://github.com/johnidm/.
+I believe in open source initiative and I share most of my work that has no impact on business secrets. You can find my collaborations on my GitHub account https://github.com/johnidm/. Also,  I like to write about my knowledge and job challenges on my personal blog https://medium.com/@johnidouglasmarangon/.
+Sometimes, I like to join meetups and talk about technology. Check it out on my presentations http://slides.com/johnidouglasmarangon and videos about technology on my YouTube channel https://www.youtube.com/@johnidouglasmarangon/videos.
 
-I help to organize some local meetups and talks about technology. Check it out on my speacker, http://slides.com/johnidouglasmarangon.
 
 ## Tecnical Skills
 
