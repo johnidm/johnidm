@@ -25,9 +25,7 @@ Sometimes, I like to join meetups and talk about technology. Check it out on [my
 
 I have an intrinsic passion for exploring and mastering new programming languages, frameworks and libraries and for expanding my technical knowledge in what I have already mastered.
 
-Throughout my professional journey I have dedicated many moments to continuing my life long learning. I immersed myself in a wide range of technical material from different sources. This exposure gave me a comprehensive and solid understanding of best practices and trends in the field of software engineering.
-
-My proactive approach and my commitment to staying up to date are reflected not only in theory but in daily practice, making me a pragmatic professional, highly adaptable and ready to face the dynamic challenges of the ever-evolving technological landscape.
+Throughout my professional journey I have dedicated many moments to continuing my life long learning. I immersed myself in a wide range of technical material from different sources. This exposure gave me a comprehensive and solid understanding of best practices and trends in the field of software engineering making me a pragmatic professional, highly adaptable and ready to face the dynamic challenges of the ever-evolving technological landscape.
 
 Currently, I feel comfortable working with any technology, regardless of my previous familiarity.
 
