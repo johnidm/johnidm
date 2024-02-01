@@ -57,7 +57,7 @@ Softplan is one of the largest software companies in Brazil, renowned for provid
 
 I served as the technical lead for a mobile project that integrates with legacy systems, providing technical guidance to enhance the team's skills. I supervised tasks of utmost complexity and importance for the project, ensuring their effective execution.
 
-Key technologies: Python, Django, Typescript, Angular 4+, PostgreSQL, Docker, GitLab, React Native, Java Script, RabbitMQ, Delphi 5.
+Key technologies: Python, Django, Typescript, Angular, PostgreSQL, Docker, React Native, Java Script, RabbitMQ, Delphi.
 
 ### Smarket Solutions (Brazil) - Frontend Developer - (Sep 2016 to May 2017)
 
