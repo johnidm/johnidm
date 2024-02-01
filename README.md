@@ -1,6 +1,10 @@
 # Johni Douglas Marangon
 
-Hi, I'm Johni, I have a passion for computer science and technology. My purpose for working as a software engineer is to make the world better by helping companies to solve real-life problems. I enjoy exploring various hobbies, travel, and self-development topics.
+Hi, I'm Johni born in Brazil and living in Ireland.
+
+I have a passion for computer science and technology. My purpose for working as a software engineer is to make the world better by helping companies to solve real-life problems. 
+
+When I'm not working, I enjoy exploring various hobbies, travel, and self-development topics.
 
 ## You can find me on
 
