@@ -95,6 +95,8 @@ Key technologies: PHP, Zend Framework, Java Script, jQuery, HTML, CSS.
 
 I was a temporary lecturer, teaching the following courses: Compilers, Data Structures II, and Programming Languages 101.
 
+Key technologies: Java, JFlex, JavaCUP, Delphi, Python, JavaScript, Scheme.
+
 ### Microsys Sistemas Ltda (Brazil) - Senior Systems Analyst - (Sep 2013 to Oct 2014)
 
 Microsys Systems is a Brazilian company that provides customizable software solutions for business process management across various industries.
