@@ -83,7 +83,7 @@ I contributed throughout the entire development cycle of a content creation mana
 
 Key technologies: Python, Javascript, Django, Celery, Tastypie, AngularJS, PostgreSQL, Amazon Web Services (AWS), Heroku.
 
-### 9bits Agência Digital (Brazil) - Freelancer Web Designer - (Oct 2014 to Feb 2015)
+### 9bits Agência Digital (Brazil) - Freelancer Web Developer - (Oct 2014 to Feb 2015)
 
 9bits is an agency specializing in digital marketing campaigns and creating digital solutions for small and medium businesses.
 
