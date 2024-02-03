@@ -18,7 +18,7 @@ When I'm not working, I enjoy exploring various hobbies, travel, and self-develo
 
 ## About me
 
-I have been working with software development since 2008, I took part in lots of successful projects using AI, web, mobile and desktop technologies.
+I have been working as a software engineer since 2008, I took part in lots of successful projects using AI, web, mobile and desktop technologies., I took part in lots of successful projects using AI, web, mobile and desktop technologies.
 
 Besides the coding focus, I’m a big fan of architecture talks, design patterns, pragmatic programming, and subjects like soft skills, leadership, agile methodologies, IA, cloud computing and user experiences. Searching for opportunities to join an engaged and committed team, passionate for its own product, creating life-changing experiences.
 
