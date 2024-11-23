@@ -1,7 +1,5 @@
 # Johni Douglas Marangon
 
-Hi, my name is Johni, and I am from Brazil.
-
 I have a passion for computer science and technology. My purpose for working as a software engineer is to make the world better by helping companies to solve real-life problems. 
 
 When I'm not working, I enjoy exploring various hobbies, travel, and self-development topics.
