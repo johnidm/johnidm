@@ -5,7 +5,8 @@ I am passionate about computer science and technology, and as a software enginee
 When I'm not working, I enjoy exploring different hobbies, traveling, and delving into self-development topics.
 
 ## You can find me on
-
+<div align="center">
+   
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johnidouglasmarangon)&nbsp;
 [![](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=)](mailto:johni.douglas.marangon@gmail.com)&nbsp;
 [![](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnidouglas/)](https://www.linkedin.com/in/johnidouglas)&nbsp;
@@ -13,6 +14,8 @@ When I'm not working, I enjoy exploring different hobbies, traveling, and delvin
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnidm)&nbsp;
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnidouglas)&nbsp;
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCN1TKjpm61rDS_MX23lRbOA)&nbsp;
+
+</div>
 
 <div align="center">
    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/johnidm/johnidm/refs/heads/main/snake-light.svg">
