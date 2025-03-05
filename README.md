@@ -1,8 +1,8 @@
 # Johni Douglas Marangon
 
-I am passionate about computer science and technology, and as a software engineer, my goal is to make the world a better place by helping companies solve real-world problems.
+I am passionate about computer science and technology, and as a software engineer, my goal is to contribute to making the world a better place by helping companies solve real-world problems.
 
-When I'm not working, I enjoy exploring different hobbies, traveling, and delving into self-development topics.
+When I’m not working, I enjoy exploring different hobbies, traveling, and delving into self-development topics.
 
 ## You can find me on
 <div align="center">
