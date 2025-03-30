@@ -4,7 +4,7 @@ I am passionate about computer science and technology, and as a software enginee
 
 When I’m not working, I enjoy exploring different hobbies, traveling, and delving into self-development topics.
 
-## You can find me on
+## You can find me on:
 <div align="center">
    
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johnidouglasmarangon)&nbsp;
@@ -22,4 +22,8 @@ When I’m not working, I enjoy exploring different hobbies, traveling, and delv
 <div align="center">
    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/johnidm/johnidm/refs/heads/main/snake-light.svg">
 </div>
+
+## 🪚🔧 My Skills:
+
+Experienced Software Engineer with 17+ years of expertise across legal, government, construction, agriculture, retail, supermarket, and wholesale industries. Skilled in developing web, desktop, and mobile applications, with hands-on experience in AI-driven solutions. Proven ability to contribute to startups and enterprises of all sizes, from small businesses to large corporations.
 
