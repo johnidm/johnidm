@@ -25,5 +25,4 @@ When I’m not working, I enjoy exploring different hobbies, traveling, and delv
 
 ## 🪚🔧 My Skills:
 
-Experienced Software Engineer with 17+ years of expertise across legal, government, construction, agriculture, retail, supermarket, and wholesale industries. Skilled in developing web, desktop, and mobile applications, with hands-on experience in AI-driven solutions. Proven ability to contribute to startups and enterprises of all sizes, from small businesses to large corporations.
-
+Experienced Software Engineer with over 17 years of expertise spanning the legal, government, construction, agriculture, retail, supermarket, and wholesale sectors. Proficient in developing web, desktop, and mobile applications, with practical experience in AI-powered solutions. I've been part of teams at startups, small businesses, and large-scale enterprises.
