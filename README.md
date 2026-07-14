@@ -29,7 +29,16 @@ Experienced Software Engineer with over 17 years of expertise spanning the legal
 
 ## ✍️ On my blog:
 
-
+- [Python Libraries That Will Make You a More Productive Developer](https://medium.com/@johnidouglasmarangon/python-libraries-that-will-make-you-a-more-productive-developer-1f44bee3dc8b)
+- [Python Libraries That Will Improve Your Code](https://medium.com/@johnidouglasmarangon/python-libraries-that-will-improve-your-code-7e927719e621)
+- [An Amazing List of Python Libraries That Will Make You More Productive](https://medium.com/@johnidouglasmarangon/an-amazing-list-of-python-libraries-that-will-make-you-more-productive-e9f9dff5a5cf)
+- [Go Structs: Go Idiomatic Way to Group Data](https://medium.com/@johnidouglasmarangon/go-structs-go-idiomatic-way-to-group-data-2a0598f16b20)
+- [Python Pattern Matching: The Feature Everyone Skipped](https://medium.com/@johnidouglasmarangon/python-pattern-matching-the-feature-everyone-skipped-78e58a83486e)
+- [Dataclasses and Fields in Python: Less Boilerplate and Cleaner Code](https://medium.com/@johnidouglasmarangon/dataclasses-and-fields-in-python-less-boilerplate-and-cleaner-code-6b2734a8e1e2)
+- [Useful Python Tips and Tricks — #9](https://medium.com/@johnidouglasmarangon/useful-python-tips-and-tricks-9-8ab9dc4ae120)
+- [Useful Python tips and tricks — #8](https://medium.com/@johnidouglasmarangon/useful-python-tips-and-tricks-8-3a52ddf47b27)
+- [Building Multi-Agents with OpenAI Agent SDK](https://medium.com/@johnidouglasmarangon/building-multi-agents-with-openai-agent-sdk-8dd9ecfb7663)
+- [Useful Python tips and tricks—#7](https://medium.com/@johnidouglasmarangon/useful-python-tips-and-tricks-7-e454cd0fb611)
 
 ## 🎙️ My Open Source Project
 
