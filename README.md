@@ -29,6 +29,7 @@ Experienced Software Engineer with over 17 years of expertise spanning the legal
 
 ## ✍️ On my blog:
 
+- [My Favorite Tools and Libraries for Next.js and Expo Projects](https://medium.com/@johnidouglasmarangon/my-favorite-tools-and-libraries-for-next-js-and-expo-projects-a815f60da9fd)
 - [Python Libraries That Will Make You a More Productive Developer](https://medium.com/@johnidouglasmarangon/python-libraries-that-will-make-you-a-more-productive-developer-1f44bee3dc8b)
 - [Python Libraries That Will Improve Your Code](https://medium.com/@johnidouglasmarangon/python-libraries-that-will-improve-your-code-7e927719e621)
 - [An Amazing List of Python Libraries That Will Make You More Productive](https://medium.com/@johnidouglasmarangon/an-amazing-list-of-python-libraries-that-will-make-you-more-productive-e9f9dff5a5cf)
@@ -38,7 +39,6 @@ Experienced Software Engineer with over 17 years of expertise spanning the legal
 - [Useful Python Tips and Tricks — #9](https://medium.com/@johnidouglasmarangon/useful-python-tips-and-tricks-9-8ab9dc4ae120)
 - [Useful Python tips and tricks — #8](https://medium.com/@johnidouglasmarangon/useful-python-tips-and-tricks-8-3a52ddf47b27)
 - [Building Multi-Agents with OpenAI Agent SDK](https://medium.com/@johnidouglasmarangon/building-multi-agents-with-openai-agent-sdk-8dd9ecfb7663)
-- [Useful Python tips and tricks—#7](https://medium.com/@johnidouglasmarangon/useful-python-tips-and-tricks-7-e454cd0fb611)
 
 ## 🎙️ My Open Source Project
 
