@@ -1,6 +1,6 @@
 # Johni Douglas Marangon
 
-I am passionate about computer science and technology, and as a software engineer, my goal is to contribute to making the world a better place by helping companies solve real-world problems.
+I am a senior backend engineer with 18+ years of experience building software across different industries. He specializes in building complex software from scratch, backend architecture, and cloud-based systems, with a growing focus on AI-powered solutions.
 
 When I’m not working, I enjoy exploring different hobbies, traveling, and delving into self-development topics.
 
@@ -25,7 +25,15 @@ When I’m not working, I enjoy exploring different hobbies, traveling, and delv
 
 ## 🪚🔧 My Skills:
 
-Experienced Software Engineer with over 17 years of expertise spanning the legal, government, construction, agriculture, retail, supermarket, and wholesale sectors. Proficient in developing web, desktop, and mobile applications, with practical experience in AI-powered solutions. I've been part of teams at startups, small businesses, and large-scale enterprises.
+I've worked with startups, small businesses, and large-scale enterprises, building web, desktop, and mobile applications and complex software from scratch. His expertise includes backend architecture, cloud-based systems, and AI-powered solutions.
+
+He enjoys turning complex technical challenges into pragmatic, scalable solutions. **Always building, learning, and exploring new ideas. 🚀**
+
+**Connect with me:** [**LinkedIn**](https://www.linkedin.com/in/johnidouglas) 🚀
+
+**Oracle ACE Associate:** [**Johni Douglas**](https://ace.oracle.com/ords/ace/profile/johnidouglas) 🏅💻
+
+---
 
 ## ✍️ On my blog:
 
