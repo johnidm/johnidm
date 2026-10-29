@@ -37,6 +37,7 @@ He enjoys turning complex technical challenges into pragmatic, scalable solution
 
 ## ✍️ On my blog:
 
+- [Getting a list of available proxies to use with Selenium and Requests in Python](https://medium.com/@johnidouglasmarangon/getting-a-list-of-available-proxies-to-use-with-selenium-and-requests-in-python-7a71f16dee32)
 - [The Simple Architecture Behind Scalable File Uploads — Direct-to-Cloud via Pre-Signed URLs](https://medium.com/@johnidouglasmarangon/the-simple-architecture-behind-scalable-file-uploads-direct-to-cloud-via-pre-signed-urls-1d6181f8f1ca)
 - [Next.js Tips and Tricks for Faster Dev](https://medium.com/@johnidouglasmarangon/next-js-tips-and-tricks-for-faster-dev-0961b72cc768)
 - [My Favorite Tools and Libraries for Next.js and Expo Projects](https://medium.com/@johnidouglasmarangon/my-favorite-tools-and-libraries-for-next-js-and-expo-projects-a815f60da9fd)
@@ -46,7 +47,6 @@ He enjoys turning complex technical challenges into pragmatic, scalable solution
 - [Go Structs: Go Idiomatic Way to Group Data](https://medium.com/@johnidouglasmarangon/go-structs-go-idiomatic-way-to-group-data-2a0598f16b20)
 - [Python Pattern Matching: The Feature Everyone Skipped](https://medium.com/@johnidouglasmarangon/python-pattern-matching-the-feature-everyone-skipped-78e58a83486e)
 - [Dataclasses and Fields in Python: Less Boilerplate and Cleaner Code](https://medium.com/@johnidouglasmarangon/dataclasses-and-fields-in-python-less-boilerplate-and-cleaner-code-6b2734a8e1e2)
-- [Useful Python Tips and Tricks — #9](https://medium.com/@johnidouglasmarangon/useful-python-tips-and-tricks-9-8ab9dc4ae120)
 
 ## 🎙️ My Open Source Project
 
