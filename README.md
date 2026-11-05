@@ -37,6 +37,7 @@ He enjoys turning complex technical challenges into pragmatic, scalable solution
 
 ## ✍️ On my blog:
 
+- [Using NGINX as an API Gateway](https://medium.com/@johnidouglasmarangon/using-nginx-as-an-api-gateway-5e75ff6101ce)
 - [How to Solve the N+1 Query Problem in Django](https://medium.com/@johnidouglasmarangon/how-to-solve-the-n-1-query-problem-in-django-cc1b6cebae1d)
 - [The Simplest Way to Build a REST API in .NET — Minimal API](https://medium.com/@johnidouglasmarangon/the-simplest-way-to-build-a-rest-api-in-net-minimal-api-54bb8064f66a)
 - [Getting a list of available proxies to use with Selenium and Requests in Python](https://medium.com/@johnidouglasmarangon/getting-a-list-of-available-proxies-to-use-with-selenium-and-requests-in-python-7a71f16dee32)
@@ -46,7 +47,6 @@ He enjoys turning complex technical challenges into pragmatic, scalable solution
 - [Python Libraries That Will Make You a More Productive Developer](https://medium.com/@johnidouglasmarangon/python-libraries-that-will-make-you-a-more-productive-developer-1f44bee3dc8b)
 - [Python Libraries That Will Improve Your Code](https://medium.com/@johnidouglasmarangon/python-libraries-that-will-improve-your-code-7e927719e621)
 - [An Amazing List of Python Libraries That Will Make You More Productive](https://medium.com/@johnidouglasmarangon/an-amazing-list-of-python-libraries-that-will-make-you-more-productive-e9f9dff5a5cf)
-- [Go Structs: Go Idiomatic Way to Group Data](https://medium.com/@johnidouglasmarangon/go-structs-go-idiomatic-way-to-group-data-2a0598f16b20)
 
 ## 🎙️ My Open Source Project
 
