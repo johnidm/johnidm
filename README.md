@@ -37,6 +37,7 @@ He enjoys turning complex technical challenges into pragmatic, scalable solution
 
 ## ✍️ On my blog:
 
+- [Building Real CLIs with Python’s argparse: From a Single Flag to Subcommands](https://medium.com/@johnidouglasmarangon/building-real-clis-with-pythons-argparse-from-a-single-flag-to-subcommands-ef8f5a2513c6)
 - [Using NGINX as an API Gateway](https://medium.com/@johnidouglasmarangon/using-nginx-as-an-api-gateway-5e75ff6101ce)
 - [How to Solve the N+1 Query Problem in Django](https://medium.com/@johnidouglasmarangon/how-to-solve-the-n-1-query-problem-in-django-cc1b6cebae1d)
 - [The Simplest Way to Build a REST API in .NET — Minimal API](https://medium.com/@johnidouglasmarangon/the-simplest-way-to-build-a-rest-api-in-net-minimal-api-54bb8064f66a)
@@ -46,7 +47,6 @@ He enjoys turning complex technical challenges into pragmatic, scalable solution
 - [My Favorite Tools and Libraries for Next.js and Expo Projects](https://medium.com/@johnidouglasmarangon/my-favorite-tools-and-libraries-for-next-js-and-expo-projects-a815f60da9fd)
 - [Python Libraries That Will Make You a More Productive Developer](https://medium.com/@johnidouglasmarangon/python-libraries-that-will-make-you-a-more-productive-developer-1f44bee3dc8b)
 - [Python Libraries That Will Improve Your Code](https://medium.com/@johnidouglasmarangon/python-libraries-that-will-improve-your-code-7e927719e621)
-- [An Amazing List of Python Libraries That Will Make You More Productive](https://medium.com/@johnidouglasmarangon/an-amazing-list-of-python-libraries-that-will-make-you-more-productive-e9f9dff5a5cf)
 
 ## 🎙️ My Open Source Project
 
