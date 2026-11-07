@@ -37,6 +37,8 @@ He enjoys turning complex technical challenges into pragmatic, scalable solution
 
 ## ✍️ On my blog:
 
+- [Solving the N+1 Query Problem in Drizzle ORM: A Practical Guide](https://medium.com/@johnidouglasmarangon/solving-the-n-1-query-problem-in-drizzle-orm-a-practical-guide-50d1c244d970)
+- [Testing GitHub Actions Locally with act: Stop Committing Just to Debug](https://medium.com/@johnidouglasmarangon/testing-github-actions-locally-with-act-stop-committing-just-to-debug-b0b2de59e212)
 - [Building Real CLIs with Python’s argparse: From a Single Flag to Subcommands](https://medium.com/@johnidouglasmarangon/building-real-clis-with-pythons-argparse-from-a-single-flag-to-subcommands-ef8f5a2513c6)
 - [Using NGINX as an API Gateway](https://medium.com/@johnidouglasmarangon/using-nginx-as-an-api-gateway-5e75ff6101ce)
 - [How to Solve the N+1 Query Problem in Django](https://medium.com/@johnidouglasmarangon/how-to-solve-the-n-1-query-problem-in-django-cc1b6cebae1d)
@@ -45,8 +47,6 @@ He enjoys turning complex technical challenges into pragmatic, scalable solution
 - [The Simple Architecture Behind Scalable File Uploads — Direct-to-Cloud via Pre-Signed URLs](https://medium.com/@johnidouglasmarangon/the-simple-architecture-behind-scalable-file-uploads-direct-to-cloud-via-pre-signed-urls-1d6181f8f1ca)
 - [Next.js Tips and Tricks for Faster Dev](https://medium.com/@johnidouglasmarangon/next-js-tips-and-tricks-for-faster-dev-0961b72cc768)
 - [My Favorite Tools and Libraries for Next.js and Expo Projects](https://medium.com/@johnidouglasmarangon/my-favorite-tools-and-libraries-for-next-js-and-expo-projects-a815f60da9fd)
-- [Python Libraries That Will Make You a More Productive Developer](https://medium.com/@johnidouglasmarangon/python-libraries-that-will-make-you-a-more-productive-developer-1f44bee3dc8b)
-- [Python Libraries That Will Improve Your Code](https://medium.com/@johnidouglasmarangon/python-libraries-that-will-improve-your-code-7e927719e621)
 
 ## 🎙️ My Open Source Project
 
