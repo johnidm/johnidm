@@ -37,6 +37,7 @@ He enjoys turning complex technical challenges into pragmatic, scalable solution
 
 ## ✍️ On my blog:
 
+- [Using the gcloud MCP Server to Inspect and Analyze Your Google Cloud Infrastructure](https://medium.com/@johnidouglasmarangon/using-the-gcloud-mcp-server-to-inspect-and-analyze-your-google-cloud-infrastructure-464be3f7e891)
 - [Database Sharding Explained: A Hands-On Guide with Python, FastAPI, and SQLite](https://medium.com/@johnidouglasmarangon/database-sharding-explained-a-hands-on-guide-with-python-fastapi-and-sqlite-bf3d145369ff)
 - [Charge Once, Retry Forever: Idempotency Keys in Python with FastAPI and Redis](https://medium.com/@johnidouglasmarangon/charge-once-retry-forever-idempotency-keys-in-python-with-fastapi-and-redis-8c4534137974)
 - [SQL Sessions: Common Table Expressions, from Basics to Recursion](https://medium.com/@johnidouglasmarangon/sql-sessions-common-table-expressions-from-basics-to-recursion-f383b8a716e7)
@@ -46,7 +47,6 @@ He enjoys turning complex technical challenges into pragmatic, scalable solution
 - [Using NGINX as an API Gateway](https://medium.com/@johnidouglasmarangon/using-nginx-as-an-api-gateway-5e75ff6101ce)
 - [How to Solve the N+1 Query Problem in Django](https://medium.com/@johnidouglasmarangon/how-to-solve-the-n-1-query-problem-in-django-cc1b6cebae1d)
 - [The Simplest Way to Build a REST API in .NET — Minimal API](https://medium.com/@johnidouglasmarangon/the-simplest-way-to-build-a-rest-api-in-net-minimal-api-54bb8064f66a)
-- [Getting a list of available proxies to use with Selenium and Requests in Python](https://medium.com/@johnidouglasmarangon/getting-a-list-of-available-proxies-to-use-with-selenium-and-requests-in-python-7a71f16dee32)
 
 ## 🎙️ My Open Source Project
 
